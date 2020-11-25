@@ -12,12 +12,12 @@
       <div class="flex h-full w-full bg-bluee-500">
         <div class="my-auto w-full">
           <div class="flex flex-col">
-            <div class="text-4x1 font-poppins text-gray-700">
+            <div class="text-4xl font-poppins text-gray-700">
               <span class="font-semibold">Welcome to</span>
               <span class="font-thin"> Eddie's </span>
               <span class="font-semibold">Page.</span>
             </div>
-            <div class="font-thin font-sans text-gray-700 text-center -mt-2">
+            <div class="font-thin font-sans text-gray-700 text-left -mt-2">
               You will be AMAZE !!!
             </div>
           </div>
